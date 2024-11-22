@@ -1,2 +1,10 @@
-
+.holder{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+	background-color:pink;
+}
+.item{
+	border:5px solid black;
+}
 /* Your CSS Code here. */
